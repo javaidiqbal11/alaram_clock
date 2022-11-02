@@ -48,3 +48,6 @@ clock.mainloop()
 # # for playing note.mp3 file
 # playsound('/path/note.mp3')
 # print('playing sound using  playsound')
+
+# if __name__ == "__Alaram__":
+#     clock.mainloop()
